@@ -4,7 +4,8 @@
 2. Clicks the menu on left upper part 
 3. Clicks the Login button
 4. Enters user credentials
-5. closes the app
+5. Clicks Log in button
+6. closes the app
 
 ## Requirments for running the test
 1. Install JDK (Java Development Kit) Set JDK Path
