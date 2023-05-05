@@ -17,7 +17,7 @@
 ## How to run the test
 1. Open Appium server
 2. Open Emulator
-3. Download the "[app]""(github.com/saucelabs/my-demo-app-rn/releases)"
+3. Download the "[app](github.com/saucelabs/my-demo-app-rn/releases)"
 4. Drag the apk to emulator to install it
 3. On the code fill the device capabilities
 4. Run the java  code
